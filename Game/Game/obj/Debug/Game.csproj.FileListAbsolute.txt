@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\User\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\User\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\User\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\User\source\repos\Game\Game\obj\Debug\Game.pdb
+E:\Новая папка\Game\Game\bin\Debug\Game.exe.config
+E:\Новая папка\Game\Game\bin\Debug\Game.exe
+E:\Новая папка\Game\Game\bin\Debug\Game.pdb
+E:\Новая папка\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+E:\Новая папка\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Новая папка\Game\Game\obj\Debug\Game.exe
+E:\Новая папка\Game\Game\obj\Debug\Game.pdb
